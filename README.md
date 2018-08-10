@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/wanruzheng/wanruzheng.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 项目说明
+此项目仅供非程序员以及小白为不可描述对象提供礼物惊喜时使用，不具备任何学习价值。
+本项目产生于某个下午一时脑洞大开，并且不打算进行任何维护以及规范。
 
-### Markdown
+## 扩展
+已经看到不少进行了扩展了哥们，添加了很多不错的样式以及加入了背景音乐以及页面动画效果。
+如果你觉得自己的repo很赞，并且也想跟大家分享，欢迎联系，我会在这里把大家扩展的repo都贴出来以供学习。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 以下针对经常被提及的问题进行说明
+### 页面跳转问题
+     <a href="https://shijieshangzuimeidenvren.github.io" class="thumbnail">
+     	<img src="img/4.jpg" alt="...">
+     </a>
+     
+     以上 <a> 标签的地址指向了我的网站，更改为 <a href="#" class="thubnail"> 可以在点击图片时不跳转到我的网站
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wanruzheng/wanruzheng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
